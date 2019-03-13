@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/newreact/node_modules
 /.pnp
 .pnp.js
 
